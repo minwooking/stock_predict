@@ -11,7 +11,8 @@
 - 주가 데이터 type float 
   
 ###  USE_Model
-- LLama3 7B (주가 분석 리포트) and Gemini 1.5 flash (주가 분석 리포트)  Kn(owledge Distillation 기법 참고  
+- LLama3 7B (주가 분석 리포트 학생) or Gemma2B (주가 분석 리포트 학생 )
+- Gemini 1.5 flash (주가 분석 리포트 선생님) 
 - 긍부정 판단 모델 bert 계열 base 모델 (연구중)
 - 회귀예측 기반의 DLNP model
 
